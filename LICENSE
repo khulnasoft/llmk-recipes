@@ -1,0 +1,125 @@
+LLMK 2 COMMUNITY LICENSE AGREEMENT
+Llmk 2 Version Release Date: July 18, 2023
+
+"Agreement" means the terms and conditions for use, reproduction, distribution and
+modification of the Llmk Materials set forth herein.
+
+"Documentation" means the specifications, manuals and documentation
+accompanying Llmk 2 distributed by Khulnasoft at ai.khulnasoft.com/resources/models-and-
+libraries/llmk-downloads/.
+
+"Licensee" or "you" means you, or your employer or any other person or entity (if
+you are entering into this Agreement on such person or entity's behalf), of the age
+required under applicable laws, rules or regulations to provide legal consent and that
+has legal authority to bind your employer or such other person or entity if you are
+entering in this Agreement on their behalf.
+
+"Llmk 2" means the foundational large language models and software and
+algorithms, including machine-learning model code, trained model weights,
+inference-enabling code, training-enabling code, fine-tuning enabling code and other
+elements of the foregoing distributed by Khulnasoft at ai.khulnasoft.com/resources/models-and-
+libraries/llmk-downloads/.
+
+"Llmk Materials" means, collectively, Khulnasoft's proprietary Llmk 2 and
+Documentation (and any portion thereof) made available under this Agreement.
+
+"Khulnasoft" or "we" means Khulnasoft Platforms Ireland Limited (if you are located in or, if you
+are an entity, your principal place of business is in the EEA or Switzerland) and Khulnasoft
+Platforms, Inc. (if you are located outside of the EEA or Switzerland).
+
+By clicking "I Accept" below or by using or distributing any portion or element of the
+Llmk Materials, you agree to be bound by this Agreement.
+
+1. License Rights and Redistribution.
+
+      a. Grant of Rights. You are granted a non-exclusive, worldwide, non-
+transferable and royalty-free limited license under Khulnasoft's intellectual property or
+other rights owned by Khulnasoft embodied in the Llmk Materials to use, reproduce,
+distribute, copy, create derivative works of, and make modifications to the Llmk
+Materials.
+
+      b. Redistribution and Use.
+
+            i. If you distribute or make the Llmk Materials, or any derivative works
+thereof, available to a third party, you shall provide a copy of this Agreement to such
+third party.
+            ii.  If you receive Llmk Materials, or any derivative works thereof, from
+a Licensee as part of an integrated end user product, then Section 2 of this
+Agreement will not apply to you.
+
+            iii. You must retain in all copies of the Llmk Materials that you
+distribute the following attribution notice within a "Notice" text file distributed as a
+part of such copies: "Llmk 2 is licensed under the LLMK 2 Community License,
+Copyright (c) Khulnasoft Platforms, Inc. All Rights Reserved."
+
+            iv. Your use of the Llmk Materials must comply with applicable laws
+and regulations (including trade compliance laws and regulations) and adhere to the
+Acceptable Use Policy for the Llmk Materials (available at
+https://ai.khulnasoft.com/llmk/use-policy), which is hereby incorporated by reference into
+this Agreement.
+
+            v. You will not use the Llmk Materials or any output or results of the
+Llmk Materials to improve any other large language model (excluding Llmk 2 or
+derivative works thereof).
+
+2. Additional Commercial Terms. If, on the Llmk 2 version release date, the
+monthly active users of the products or services made available by or for Licensee,
+or Licensee's affiliates, is greater than 700 million monthly active users in the
+preceding calendar month, you must request a license from Khulnasoft, which Khulnasoft may
+grant to you in its sole discretion, and you are not authorized to exercise any of the
+rights under this Agreement unless or until Khulnasoft otherwise expressly grants you
+such rights.
+
+3. Disclaimer of Warranty. UNLESS REQUIRED BY APPLICABLE LAW, THE
+LLMK MATERIALS AND ANY OUTPUT AND RESULTS THEREFROM ARE
+PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND,
+EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY
+WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR
+FITNESS FOR A PARTICULAR PURPOSE. YOU ARE SOLELY RESPONSIBLE
+FOR DETERMINING THE APPROPRIATENESS OF USING OR REDISTRIBUTING
+THE LLMK MATERIALS AND ASSUME ANY RISKS ASSOCIATED WITH YOUR
+USE OF THE LLMK MATERIALS AND ANY OUTPUT AND RESULTS.
+
+4. Limitation of Liability. IN NO EVENT WILL KHULNASOFT OR ITS AFFILIATES BE
+LIABLE UNDER ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, TORT,
+NEGLIGENCE, PRODUCTS LIABILITY, OR OTHERWISE, ARISING OUT OF THIS
+AGREEMENT, FOR ANY LOST PROFITS OR ANY INDIRECT, SPECIAL,
+CONSEQUENTIAL, INCIDENTAL, EXEMPLARY OR PUNITIVE DAMAGES, EVEN
+IF KHULNASOFT OR ITS AFFILIATES HAVE BEEN ADVISED OF THE POSSIBILITY OF
+ANY OF THE FOREGOING.
+
+5. Intellectual Property.
+
+      a. No trademark licenses are granted under this Agreement, and in
+connection with the Llmk Materials, neither Khulnasoft nor Licensee may use any name
+or mark owned by or associated with the other or any of its affiliates, except as
+required for reasonable and customary use in describing and redistributing the
+Llmk Materials.
+
+      b. Subject to Khulnasoft's ownership of Llmk Materials and derivatives made by or
+for Khulnasoft, with respect to any derivative works and modifications of the Llmk
+Materials that are made by you, as between you and Khulnasoft, you are and will be the
+owner of such derivative works and modifications.
+
+      c. If you institute litigation or other proceedings against Khulnasoft or any entity
+(including a cross-claim or counterclaim in a lawsuit) alleging that the Llmk
+Materials or Llmk 2 outputs or results, or any portion of any of the foregoing,
+constitutes infringement of intellectual property or other rights owned or licensable
+by you, then any licenses granted to you under this Agreement shall terminate as of
+the date such litigation or claim is filed or instituted. You will indemnify and hold
+harmless Khulnasoft from and against any claim by any third party arising out of or related
+to your use or distribution of the Llmk Materials.
+
+6. Term and Termination. The term of this Agreement will commence upon your
+acceptance of this Agreement or access to the Llmk Materials and will continue in
+full force and effect until terminated in accordance with the terms and conditions
+herein. Khulnasoft may terminate this Agreement if you are in breach of any term or
+condition of this Agreement. Upon termination of this Agreement, you shall delete
+and cease use of the Llmk Materials. Sections 3, 4 and 7 shall survive the
+termination of this Agreement.
+
+7. Governing Law and Jurisdiction. This Agreement will be governed and
+construed under the laws of the State of California without regard to choice of law
+principles, and the UN Convention on Contracts for the International Sale of Goods
+does not apply to this Agreement. The courts of California shall have exclusive
+jurisdiction of any dispute arising out of this Agreement.
